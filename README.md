@@ -38,6 +38,10 @@ Running locally from command line
 mvn clean install
 mvn spring-boot:run
 ```
+Swagger Doc url
+```
+http://localhost:8080/swagger-ui.html
+```
 
 api endpoint
 ```
